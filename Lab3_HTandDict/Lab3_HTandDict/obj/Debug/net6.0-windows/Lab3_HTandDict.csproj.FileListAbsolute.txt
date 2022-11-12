@@ -1,0 +1,75 @@
+E:\Humber\Fall - 2022\ITE 5231 - Data Strc and Design Patterns\0GB - IGS online Monday 4.15 to 6.55\Week 4 - Oct 3, 2022\Lab3_HTandDict\Lab3_HTandDict\bin\Debug\net6.0-windows\Lab3_HTandDict.exe
+E:\Humber\Fall - 2022\ITE 5231 - Data Strc and Design Patterns\0GB - IGS online Monday 4.15 to 6.55\Week 4 - Oct 3, 2022\Lab3_HTandDict\Lab3_HTandDict\bin\Debug\net6.0-windows\Lab3_HTandDict.deps.json
+E:\Humber\Fall - 2022\ITE 5231 - Data Strc and Design Patterns\0GB - IGS online Monday 4.15 to 6.55\Week 4 - Oct 3, 2022\Lab3_HTandDict\Lab3_HTandDict\bin\Debug\net6.0-windows\Lab3_HTandDict.runtimeconfig.json
+E:\Humber\Fall - 2022\ITE 5231 - Data Strc and Design Patterns\0GB - IGS online Monday 4.15 to 6.55\Week 4 - Oct 3, 2022\Lab3_HTandDict\Lab3_HTandDict\bin\Debug\net6.0-windows\Lab3_HTandDict.dll
+E:\Humber\Fall - 2022\ITE 5231 - Data Strc and Design Patterns\0GB - IGS online Monday 4.15 to 6.55\Week 4 - Oct 3, 2022\Lab3_HTandDict\Lab3_HTandDict\bin\Debug\net6.0-windows\Lab3_HTandDict.pdb
+E:\Humber\Fall - 2022\ITE 5231 - Data Strc and Design Patterns\0GB - IGS online Monday 4.15 to 6.55\Week 4 - Oct 3, 2022\Lab3_HTandDict\Lab3_HTandDict\obj\Debug\net6.0-windows\Lab3_HTandDict.csproj.AssemblyReference.cache
+E:\Humber\Fall - 2022\ITE 5231 - Data Strc and Design Patterns\0GB - IGS online Monday 4.15 to 6.55\Week 4 - Oct 3, 2022\Lab3_HTandDict\Lab3_HTandDict\obj\Debug\net6.0-windows\Lab3_HTandDict.Form1.resources
+E:\Humber\Fall - 2022\ITE 5231 - Data Strc and Design Patterns\0GB - IGS online Monday 4.15 to 6.55\Week 4 - Oct 3, 2022\Lab3_HTandDict\Lab3_HTandDict\obj\Debug\net6.0-windows\Lab3_HTandDict.Form2.resources
+E:\Humber\Fall - 2022\ITE 5231 - Data Strc and Design Patterns\0GB - IGS online Monday 4.15 to 6.55\Week 4 - Oct 3, 2022\Lab3_HTandDict\Lab3_HTandDict\obj\Debug\net6.0-windows\Lab3_HTandDict.csproj.GenerateResource.cache
+E:\Humber\Fall - 2022\ITE 5231 - Data Strc and Design Patterns\0GB - IGS online Monday 4.15 to 6.55\Week 4 - Oct 3, 2022\Lab3_HTandDict\Lab3_HTandDict\obj\Debug\net6.0-windows\Lab3_HTandDict.GeneratedMSBuildEditorConfig.editorconfig
+E:\Humber\Fall - 2022\ITE 5231 - Data Strc and Design Patterns\0GB - IGS online Monday 4.15 to 6.55\Week 4 - Oct 3, 2022\Lab3_HTandDict\Lab3_HTandDict\obj\Debug\net6.0-windows\Lab3_HTandDict.AssemblyInfoInputs.cache
+E:\Humber\Fall - 2022\ITE 5231 - Data Strc and Design Patterns\0GB - IGS online Monday 4.15 to 6.55\Week 4 - Oct 3, 2022\Lab3_HTandDict\Lab3_HTandDict\obj\Debug\net6.0-windows\Lab3_HTandDict.AssemblyInfo.cs
+E:\Humber\Fall - 2022\ITE 5231 - Data Strc and Design Patterns\0GB - IGS online Monday 4.15 to 6.55\Week 4 - Oct 3, 2022\Lab3_HTandDict\Lab3_HTandDict\obj\Debug\net6.0-windows\Lab3_HTandDict.csproj.CoreCompileInputs.cache
+E:\Humber\Fall - 2022\ITE 5231 - Data Strc and Design Patterns\0GB - IGS online Monday 4.15 to 6.55\Week 4 - Oct 3, 2022\Lab3_HTandDict\Lab3_HTandDict\obj\Debug\net6.0-windows\Lab3_HTandDict.dll
+E:\Humber\Fall - 2022\ITE 5231 - Data Strc and Design Patterns\0GB - IGS online Monday 4.15 to 6.55\Week 4 - Oct 3, 2022\Lab3_HTandDict\Lab3_HTandDict\obj\Debug\net6.0-windows\refint\Lab3_HTandDict.dll
+E:\Humber\Fall - 2022\ITE 5231 - Data Strc and Design Patterns\0GB - IGS online Monday 4.15 to 6.55\Week 4 - Oct 3, 2022\Lab3_HTandDict\Lab3_HTandDict\obj\Debug\net6.0-windows\Lab3_HTandDict.pdb
+E:\Humber\Fall - 2022\ITE 5231 - Data Strc and Design Patterns\0GB - IGS online Monday 4.15 to 6.55\Week 4 - Oct 3, 2022\Lab3_HTandDict\Lab3_HTandDict\obj\Debug\net6.0-windows\Lab3_HTandDict.genruntimeconfig.cache
+E:\Humber\Fall - 2022\ITE 5231 - Data Strc and Design Patterns\0GB - IGS online Monday 4.15 to 6.55\Week 4 - Oct 3, 2022\Lab3_HTandDict\Lab3_HTandDict\obj\Debug\net6.0-windows\ref\Lab3_HTandDict.dll
+C:\Users\otrix\Desktop\Semester 2\Data Structure_design pat\New folder\Lab3_HTandDict\Lab3_HTandDict\bin\Debug\net6.0-windows\Lab3_HTandDict.exe
+C:\Users\otrix\Desktop\Semester 2\Data Structure_design pat\New folder\Lab3_HTandDict\Lab3_HTandDict\bin\Debug\net6.0-windows\Lab3_HTandDict.deps.json
+C:\Users\otrix\Desktop\Semester 2\Data Structure_design pat\New folder\Lab3_HTandDict\Lab3_HTandDict\bin\Debug\net6.0-windows\Lab3_HTandDict.runtimeconfig.json
+C:\Users\otrix\Desktop\Semester 2\Data Structure_design pat\New folder\Lab3_HTandDict\Lab3_HTandDict\bin\Debug\net6.0-windows\Lab3_HTandDict.dll
+C:\Users\otrix\Desktop\Semester 2\Data Structure_design pat\New folder\Lab3_HTandDict\Lab3_HTandDict\bin\Debug\net6.0-windows\Lab3_HTandDict.pdb
+C:\Users\otrix\Desktop\Semester 2\Data Structure_design pat\New folder\Lab3_HTandDict\Lab3_HTandDict\obj\Debug\net6.0-windows\Lab3_HTandDict.csproj.AssemblyReference.cache
+C:\Users\otrix\Desktop\Semester 2\Data Structure_design pat\New folder\Lab3_HTandDict\Lab3_HTandDict\obj\Debug\net6.0-windows\Lab3_HTandDict.Form1.resources
+C:\Users\otrix\Desktop\Semester 2\Data Structure_design pat\New folder\Lab3_HTandDict\Lab3_HTandDict\obj\Debug\net6.0-windows\Lab3_HTandDict.Form2.resources
+C:\Users\otrix\Desktop\Semester 2\Data Structure_design pat\New folder\Lab3_HTandDict\Lab3_HTandDict\obj\Debug\net6.0-windows\Lab3_HTandDict.csproj.GenerateResource.cache
+C:\Users\otrix\Desktop\Semester 2\Data Structure_design pat\New folder\Lab3_HTandDict\Lab3_HTandDict\obj\Debug\net6.0-windows\Lab3_HTandDict.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\otrix\Desktop\Semester 2\Data Structure_design pat\New folder\Lab3_HTandDict\Lab3_HTandDict\obj\Debug\net6.0-windows\Lab3_HTandDict.AssemblyInfoInputs.cache
+C:\Users\otrix\Desktop\Semester 2\Data Structure_design pat\New folder\Lab3_HTandDict\Lab3_HTandDict\obj\Debug\net6.0-windows\Lab3_HTandDict.AssemblyInfo.cs
+C:\Users\otrix\Desktop\Semester 2\Data Structure_design pat\New folder\Lab3_HTandDict\Lab3_HTandDict\obj\Debug\net6.0-windows\Lab3_HTandDict.csproj.CoreCompileInputs.cache
+C:\Users\otrix\Desktop\Semester 2\Data Structure_design pat\New folder\Lab3_HTandDict\Lab3_HTandDict\obj\Debug\net6.0-windows\Lab3_HTandDict.dll
+C:\Users\otrix\Desktop\Semester 2\Data Structure_design pat\New folder\Lab3_HTandDict\Lab3_HTandDict\obj\Debug\net6.0-windows\refint\Lab3_HTandDict.dll
+C:\Users\otrix\Desktop\Semester 2\Data Structure_design pat\New folder\Lab3_HTandDict\Lab3_HTandDict\obj\Debug\net6.0-windows\Lab3_HTandDict.pdb
+C:\Users\otrix\Desktop\Semester 2\Data Structure_design pat\New folder\Lab3_HTandDict\Lab3_HTandDict\obj\Debug\net6.0-windows\Lab3_HTandDict.genruntimeconfig.cache
+C:\Users\otrix\Desktop\Semester 2\Data Structure_design pat\New folder\Lab3_HTandDict\Lab3_HTandDict\obj\Debug\net6.0-windows\ref\Lab3_HTandDict.dll
+C:\Users\otrix\Desktop\Semester 2\Data Structure_design pat\New folder\Lab3_HTandDict\Lab3_HTandDict\obj\Debug\net6.0-windows\Lab3_HTandDict.Form3.resources
+C:\Users\otrix\Desktop\Lab3_HTandDict\Lab3_HTandDict\bin\Debug\net6.0-windows\Lab3_HTandDict.exe
+C:\Users\otrix\Desktop\Lab3_HTandDict\Lab3_HTandDict\bin\Debug\net6.0-windows\Lab3_HTandDict.deps.json
+C:\Users\otrix\Desktop\Lab3_HTandDict\Lab3_HTandDict\bin\Debug\net6.0-windows\Lab3_HTandDict.runtimeconfig.json
+C:\Users\otrix\Desktop\Lab3_HTandDict\Lab3_HTandDict\bin\Debug\net6.0-windows\Lab3_HTandDict.dll
+C:\Users\otrix\Desktop\Lab3_HTandDict\Lab3_HTandDict\bin\Debug\net6.0-windows\Lab3_HTandDict.pdb
+C:\Users\otrix\Desktop\Lab3_HTandDict\Lab3_HTandDict\obj\Debug\net6.0-windows\Lab3_HTandDict.csproj.AssemblyReference.cache
+C:\Users\otrix\Desktop\Lab3_HTandDict\Lab3_HTandDict\obj\Debug\net6.0-windows\Lab3_HTandDict.Form1.resources
+C:\Users\otrix\Desktop\Lab3_HTandDict\Lab3_HTandDict\obj\Debug\net6.0-windows\Lab3_HTandDict.Form2.resources
+C:\Users\otrix\Desktop\Lab3_HTandDict\Lab3_HTandDict\obj\Debug\net6.0-windows\Lab3_HTandDict.Form3.resources
+C:\Users\otrix\Desktop\Lab3_HTandDict\Lab3_HTandDict\obj\Debug\net6.0-windows\Lab3_HTandDict.csproj.GenerateResource.cache
+C:\Users\otrix\Desktop\Lab3_HTandDict\Lab3_HTandDict\obj\Debug\net6.0-windows\Lab3_HTandDict.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\otrix\Desktop\Lab3_HTandDict\Lab3_HTandDict\obj\Debug\net6.0-windows\Lab3_HTandDict.AssemblyInfoInputs.cache
+C:\Users\otrix\Desktop\Lab3_HTandDict\Lab3_HTandDict\obj\Debug\net6.0-windows\Lab3_HTandDict.AssemblyInfo.cs
+C:\Users\otrix\Desktop\Lab3_HTandDict\Lab3_HTandDict\obj\Debug\net6.0-windows\Lab3_HTandDict.csproj.CoreCompileInputs.cache
+C:\Users\otrix\Desktop\Lab3_HTandDict\Lab3_HTandDict\obj\Debug\net6.0-windows\Lab3_HTandDict.dll
+C:\Users\otrix\Desktop\Lab3_HTandDict\Lab3_HTandDict\obj\Debug\net6.0-windows\refint\Lab3_HTandDict.dll
+C:\Users\otrix\Desktop\Lab3_HTandDict\Lab3_HTandDict\obj\Debug\net6.0-windows\Lab3_HTandDict.pdb
+C:\Users\otrix\Desktop\Lab3_HTandDict\Lab3_HTandDict\obj\Debug\net6.0-windows\Lab3_HTandDict.genruntimeconfig.cache
+C:\Users\otrix\Desktop\Lab3_HTandDict\Lab3_HTandDict\obj\Debug\net6.0-windows\ref\Lab3_HTandDict.dll
+C:\Users\Hp\source\repos\Lab3_HTandDict\Lab3_HTandDict\Lab3_HTandDict\bin\Debug\net6.0-windows\Lab3_HTandDict.exe
+C:\Users\Hp\source\repos\Lab3_HTandDict\Lab3_HTandDict\Lab3_HTandDict\bin\Debug\net6.0-windows\Lab3_HTandDict.deps.json
+C:\Users\Hp\source\repos\Lab3_HTandDict\Lab3_HTandDict\Lab3_HTandDict\bin\Debug\net6.0-windows\Lab3_HTandDict.runtimeconfig.json
+C:\Users\Hp\source\repos\Lab3_HTandDict\Lab3_HTandDict\Lab3_HTandDict\bin\Debug\net6.0-windows\Lab3_HTandDict.dll
+C:\Users\Hp\source\repos\Lab3_HTandDict\Lab3_HTandDict\Lab3_HTandDict\bin\Debug\net6.0-windows\Lab3_HTandDict.pdb
+C:\Users\Hp\source\repos\Lab3_HTandDict\Lab3_HTandDict\Lab3_HTandDict\obj\Debug\net6.0-windows\Lab3_HTandDict.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\Lab3_HTandDict\Lab3_HTandDict\Lab3_HTandDict\obj\Debug\net6.0-windows\Lab3_HTandDict.Form1.resources
+C:\Users\Hp\source\repos\Lab3_HTandDict\Lab3_HTandDict\Lab3_HTandDict\obj\Debug\net6.0-windows\Lab3_HTandDict.Form2.resources
+C:\Users\Hp\source\repos\Lab3_HTandDict\Lab3_HTandDict\Lab3_HTandDict\obj\Debug\net6.0-windows\Lab3_HTandDict.Form3.resources
+C:\Users\Hp\source\repos\Lab3_HTandDict\Lab3_HTandDict\Lab3_HTandDict\obj\Debug\net6.0-windows\Lab3_HTandDict.csproj.GenerateResource.cache
+C:\Users\Hp\source\repos\Lab3_HTandDict\Lab3_HTandDict\Lab3_HTandDict\obj\Debug\net6.0-windows\Lab3_HTandDict.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\source\repos\Lab3_HTandDict\Lab3_HTandDict\Lab3_HTandDict\obj\Debug\net6.0-windows\Lab3_HTandDict.AssemblyInfoInputs.cache
+C:\Users\Hp\source\repos\Lab3_HTandDict\Lab3_HTandDict\Lab3_HTandDict\obj\Debug\net6.0-windows\Lab3_HTandDict.AssemblyInfo.cs
+C:\Users\Hp\source\repos\Lab3_HTandDict\Lab3_HTandDict\Lab3_HTandDict\obj\Debug\net6.0-windows\Lab3_HTandDict.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\Lab3_HTandDict\Lab3_HTandDict\Lab3_HTandDict\obj\Debug\net6.0-windows\Lab3_HTandDict.dll
+C:\Users\Hp\source\repos\Lab3_HTandDict\Lab3_HTandDict\Lab3_HTandDict\obj\Debug\net6.0-windows\refint\Lab3_HTandDict.dll
+C:\Users\Hp\source\repos\Lab3_HTandDict\Lab3_HTandDict\Lab3_HTandDict\obj\Debug\net6.0-windows\Lab3_HTandDict.pdb
+C:\Users\Hp\source\repos\Lab3_HTandDict\Lab3_HTandDict\Lab3_HTandDict\obj\Debug\net6.0-windows\Lab3_HTandDict.genruntimeconfig.cache
+C:\Users\Hp\source\repos\Lab3_HTandDict\Lab3_HTandDict\Lab3_HTandDict\obj\Debug\net6.0-windows\ref\Lab3_HTandDict.dll
